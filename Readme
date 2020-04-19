@@ -1,0 +1,7 @@
+echo "# Stochastic-processes-Study-material" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Arun-Kaushik/Stochastic-processes-Study-material.git
+git push -u origin master
+                
